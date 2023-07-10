@@ -45,7 +45,7 @@ export default function App() {
   return (
     <>
       <a
-        href="https://github.com/hisekr"
+        href="https://github.com/hisekr/Todo-List"
         target="_blank"
         rel="noopener noreferrer"
         className="github-icon"
