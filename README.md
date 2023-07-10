@@ -4,8 +4,7 @@ It uses React Hooks such as useState and useEffect to gain its functionality.
 
 # How To Run
 In order to run this project, Install all the dependencies using
-npm i
-npm i react-icons
+npm i,
+npm i react-icons,
 
-then 
-npm run dev.
+then npm run dev.
